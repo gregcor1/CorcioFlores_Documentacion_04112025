@@ -6,7 +6,7 @@ use OpenApi\Attibutes as OA;
 /**
  * @OA\Info(
  *     version="1.0.0",
- *     title="Documentacion de API Desarrolloda por Maria Jose Granillo Guardado",
+ *     title="Documentacion de API Desarrolloda por Gregorio Javier Corcio Flores",
  *      description="API Desarrolloda por Gregorio Javier Corcio Flores, para la Universidad Francisco Gavidia",
  *      @OA\Contact(
  *          email="ia.gregcorcio@ufg.edu.sv"
