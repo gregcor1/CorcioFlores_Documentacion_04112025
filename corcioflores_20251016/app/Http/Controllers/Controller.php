@@ -31,7 +31,7 @@ namespace App\Http\Controllers;
  * )
  * 
  * @OA\Server(
- *   url="http://mjgg.ejemplo.com/",
+ *   url="http://gjcf.ejemplo.com/",
  *   description="Servidor de Produccion"
  * )
  * 
