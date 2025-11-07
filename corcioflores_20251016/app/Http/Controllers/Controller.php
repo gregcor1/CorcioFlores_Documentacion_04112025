@@ -1,9 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-use OpenApi\Attibutes as OA;
+//use OpenApi\Attibutes as OA;
 
 /**
+ * @OA\OpenApi(
  * @OA\Info(
  *     version="1.0.0",
  *     title="Documentacion de API Desarrolloda por Gregorio Javier Corcio Flores",
@@ -16,6 +17,8 @@ use OpenApi\Attibutes as OA;
  *      url="http://www.apache.org/license/LICENSE-2.0.html"
  *      )
  * )
+ * )
+ * 
  * 
  * @OA\Server(
  *   url="http://localhost:8000/",
